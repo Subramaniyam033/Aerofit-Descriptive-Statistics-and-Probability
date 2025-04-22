@@ -6,6 +6,14 @@ Further providing recommendations of treadmill for future orders/customers based
 # EDA Insights: 
 * The dataset had 180 rows
 * There is no Null values or duplicates in the dataset.
+* Age and income / Miles and Income are positively correlated
+* Miles, Income, Usage and Fitness are highly correlated
+* Gender is also correlated with Usage, fitness,Income and Miles.
+* The more advanced the product is, the more its usage and hence more the miles run which in turns improves the fitness.
+* Outliers were found in Income, Miles and Age but the dataset has only 180 rows hence we didnt remove the outliers.
+* Maritial status has No effect
+* Around 55% of women prefer KP281 and only 10% prefer KP781. While around 35% of men prefer KP781.
+* 95% of customers having fitness level of 5 use KP781 and none of those having fitness level below 3 use KP781.
 
 **Customer Profiles for KP781**
 * Only people having incomes greater than 70k have run over 220 miles and all of then use KP781.
