@@ -3,7 +3,7 @@ Leveraging the customer data collected by Aerofit consisting of the Gender, Age,
 identify characteristics which make the customer buy a particular treadmill out of KP281, KP481 and KP781 in the increasing order of expenditures. 
 Further providing recommendations of treadmill for future orders/customers based on their profile.
 
-# EDA Insights: 
+### EDA Insights: 
 * The dataset had 180 rows
 * There is no Null values or duplicates in the dataset.
 * Age and income / Miles and Income are positively correlated
